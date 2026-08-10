@@ -1,4 +1,5 @@
-  "France": [
+{
+"France": [
     [
       "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
       "France Inter",
@@ -509,4 +510,5 @@
       "Tahiti Web Radio",
       "null"
     ]
-  ],
+  ]
+}
