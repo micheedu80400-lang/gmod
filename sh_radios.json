@@ -430,7 +430,7 @@
       "Talk Public-Radio"
     ]
   ],
-  "French Guiana (F)": [
+  "Guyane (FR)": [
     [
       "http://france1.coollabel-productions.com:8162/;",
       "Radio Ouest FM",
@@ -482,3 +482,31 @@
       "College"
     ]
   ],
+
+  "Polynesie (FR)": [
+    [
+      "http://polynesie.ice.infomaniak.ch/polynesie-128.mp3",
+      "Polynésie ère",
+      "Public-Radio"
+    ],
+    [
+      "http://live.radio1.pf:8001/radio1",
+      "Radio 1",
+      "Variety"
+    ],
+    [
+      "http://stream.radiojar.com/u0yz7p0mb",
+      "Radio Hiti FM",
+      "Pop"
+    ],
+    [
+      "http://listen.radioking.com/radio/397660/stream/449635",
+      "NRJ Polynésie",
+      "null"
+    ],
+    [
+      "http://s10.myradiostream.com:36098/stream",
+      "Tahiti Web Radio",
+      "null"
+    ]
+  ]
