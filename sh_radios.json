@@ -1,29 +1,24 @@
 {
 "France": [
     [
-      "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
-      "France Inter",
-      "News-Talk"
-    ],
-    [
-      "http://direct.franceculture.fr/live/franceculture-midfi.mp3",
-      "France Culture",
-      "Talk Public-Radio"
-    ],
-    [
       "http://direct.francemusique.fr/live/francemusique-midfi.mp3",
       "France Musique",
       "Classical"
     ],
     [
-      "http://185.52.127.132/fr/30001/mp3_128.mp3",
+      "https://streaming.nrjaudio.fm/oumvmk8fnozc?origine=fluxurlradio",
       "NRJ",
       "Hits"
     ],
     [
-      "http://icecast.radiofrance.fr/franceinfo-midfi.mp3",
-      "France Info",
-      "News"
+      "https://streaming.nrjaudio.fm/ouuku85n3nje?origine=fluxurlradio",
+      "Cherie FM",
+      "Hits"
+    ],
+    [
+      "https://streaming.nrjaudio.fm/oug7girb92oc?origine=fluxurlradio",
+      "Nostalgie",
+      "Variety"
     ],
     [
       "http://ais-live.cloud-services.paris:8000/europe1.mp3",
@@ -34,11 +29,6 @@
       "http://streaming.radio.funradio.fr/rtl-1-44-128",
       "RTL",
       "Talk Public-Radio"
-    ],
-    [
-      "http://str0.creacast.com/radio_vinci_autoroutes_3",
-      "Radio Vinci Autoroutes",
-      "Variety"
     ],
     [
       "http://icecast.skyrock.net/s/natio_mp3_128k",
@@ -61,24 +51,9 @@
       "Hit-Radio Rock Top 40"
     ],
     [
-      "http://classicfm.ice.infomaniak.ch/classic-fm.mp3",
-      "Classic FM",
-      "Classical"
-    ],
-    [
-      "http://media.autorouteinfo.fr:8000/direct_nord.mp3",
-      "Autoroute Info",
-      "Variety"
-    ],
-    [
       "http://mfm.ice.infomaniak.ch/mfm-128.mp3",
       "M Radio",
       "Variety"
-    ],
-    [
-      "http://185.52.127.163/fr/30401/mp3_128.mp3",
-      "Rire et Chansons",
-      "Talk Comedy"
     ],
     [
       "http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
@@ -91,29 +66,9 @@
       "Variety"
     ],
     [
-      "http://sanef.ice.infomaniak.ch/sanef1077-est.mp3",
-      "Sanef",
-      "Variety"
-    ],
-    [
-      "http://live02.rfi.fr/rfimonde-96k.mp3",
-      "RFI - Afrique",
-      "Talk"
-    ],
-    [
-      "http://185.74.70.35/jazzradio-high.mp3",
-      "Jazz Radio",
-      "Jazz"
-    ],
-    [
       "http://direct.mouv.fr/live/mouv-midfi.mp3",
       "Mouv FM",
       "Electronic"
-    ],
-    [
-      "http://radionova.ice.infomaniak.ch/novazz-128.mp3",
-      "Nova Paris",
-      "Eclectic"
     ],
     [
       "http://target-ad-1.cdn.dvmr.fr/ouifm-high.mp3",
@@ -131,11 +86,6 @@
       "Jazz"
     ],
     [
-      "http://live02.mc-doualiya.com/mc-doualiya.mp3",
-      "MC Doualiya",
-      "Arabic"
-    ],
-    [
       "http://start-latina.ice.infomaniak.ch/start-latina-high",
       "Latina FM",
       "Latin Hits"
@@ -144,21 +94,6 @@
       "http://185.74.70.35/alouette-high.mp3",
       "Alouette FM",
       "Soft-Rock"
-    ],
-    [
-      "http://n01a-eu.rcs.revma.com/7hnrkawf4p8uv.mp3",
-      "Radio Orient",
-      "World Variety"
-    ],
-    [
-      "http://direct.fipradio.fr/live/fip-midfi.mp3",
-      "FIP FM",
-      "Variety"
-    ],
-    [
-      "http://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3",
-      "Chante France",
-      "Variety"
     ],
     [
       "http://185.74.70.35/vibration-high.mp3",
@@ -176,54 +111,14 @@
       "Hits"
     ],
     [
-      "http://icecast.radiofrance.fr/fbpaysdesavoie-midfi.mp3",
-      "France Bleu Pays de Savoie",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://str0.creacast.com/melody2",
-      "Mélody Vintage Radio",
-      "null"
-    ],
-    [
       "http://generationfm.ice.infomaniak.ch/generationfm-high.mp3",
       "Générations FM",
       "Rap Hip-Hop"
     ],
     [
-      "http://aratotem.ice.infomaniak.ch/correze.mp3",
-      "Totem FM",
-      "Variety"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fbprovence-midfi.mp3",
-      "France Bleu Provence",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
-      "France Maghreb 2",
-      "Variety"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fbfrequenzamora-midfi.mp3",
-      "France Bleu Rc FM",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://live02.rfi.fr/rfimonde-64.mp3",
-      "RFI - Monde",
-      "News-Talk"
-    ],
-    [
       "http://stream.radios-arra.fr:8000/contactfm",
       "Contact FM",
       "Dance"
-    ],
-    [
-      "http://listen.radioking.com/radio/9728/stream/20210",
-      "Radio Star",
-      "null"
     ],
     [
       "http://capsaopremium.ice.infomaniak.ch/capsaopremium-128.mp3",
@@ -236,11 +131,6 @@
       "Variety"
     ],
     [
-      "http://direct.radiopresence.com/presence",
-      "Radio Présence",
-      "Christian"
-    ],
-    [
       "http://vir-wr02.ice.infomaniak.ch/vir-wr02.mp3",
       "Virage Musique",
       "Rock"
@@ -251,29 +141,9 @@
       "Electronic Rock"
     ],
     [
-      "http://african1paris.ice.infomaniak.ch/african1paris-128.mp3",
-      "Africa No 1",
-      "African"
-    ],
-    [
       "http://broadcast.infomaniak.ch/hitwest-high.mp3",
       "Hit West",
       "Hits"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fbtoulouse-midfi.mp3",
-      "France Bleu Occitanie",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fblimousin-midfi.mp3",
-      "France Bleu Limousin",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fbbreizizel-midfi.mp3",
-      "France Bleu Breizh Izel",
-      "Talk Public-Radio"
     ],
     [
       "http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3",
@@ -281,79 +151,9 @@
       "Hits"
     ],
     [
-      "http://icecast.radiofrance.fr/fbalsace-midfi.mp3",
-      "France Bleu Alsace",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://icecast.radiofrance.fr/fbbourgogne-midfi.mp3",
-      "France Bleu Bourgogne",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fbarmorique-midfi.mp3",
-      "France Bleu Armorique",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fbisere-midfi.mp3",
-      "France Bleu Isère",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fbloireocean-midfi.mp3",
-      "France Bleu Loire Océan",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fbazur-midfi.mp3",
-      "France Bleu Azur",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fbperigord-midfi.mp3",
-      "France Bleu Périgord",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://dreamsiteradiocp4.com:8056/;",
-      "Radio Maria France",
-      "Christian"
-    ],
-    [
       "http://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-128.mp3",
       "Radio Scoop",
       "Dance DJ"
-    ],
-    [
-      "http://icecast.radiofrance.fr/fbhautenormandie-midfi.mp3",
-      "France Bleu Normandie Seine-Maritime - Eure",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://icecast.radiofrance.fr/fbnord-midfi.mp3",
-      "France Bleu Nord",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://icecast.radiofrance.fr/fbgardlozere-midfi.mp3",
-      "France Bleu Gard Lozère",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fbpicardie-midfi.mp3",
-      "France Bleu Picardie",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fbpaysdauvergne-midfi.mp3",
-      "France Bleu Pays D Auvergne",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3",
-      "Radio Bonheur",
-      "Adult-Contemporary"
     ],
     [
       "http://streaming.prun.net/euradio.mp3",
@@ -361,154 +161,9 @@
       "Variety Rock"
     ],
     [
-      "http://direct.francebleu.fr/live/fbbassenormandie-midfi.mp3",
-      "France Bleu Normandie Calvados - Orne",
-      "Public-Radio"
-    ],
-    [
-      "http://icecast.radiofrance.fr/fbdromeardeche-midfi.mp3",
-      "France Bleu Drôme Ardèche",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fbsudlorraine-midfi.mp3",
-      "France Bleu Sud Lorraine",
-      "Talk Public-Radio"
-    ],
-    [
       "http://185.74.70.35/kissfm-128.mp3",
       "Kiss FM",
       "Hit-Radio Rock Top 40"
-    ],
-    [
-      "http://freqplus.ice.infomaniak.ch/freqplus-high",
-      "Fréquence Plus",
-      "Adult-Contemporary"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fbgironde-midfi.mp3",
-      "France Bleu Gironde",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fbherault-midfi.mp3",
-      "France Bleu Hérault",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://icecast.radiofrance.fr/fblarochelle-midfi.mp3",
-      "France Bleu La Rochelle",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://icecast.radiofrance.fr/fbgascogne-midfi.mp3",
-      "France Bleu Gascogne",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://radiomenergy.ice.infomaniak.ch/radiomenergy-128.mp3",
-      "Radio Ménergy",
-      "Pop"
-    ],
-    [
-      "http://sc.creacast.com/topmusic_strasbourg",
-      "Top Music",
-      "Rock Pop"
-    ],
-    [
-      "http://direct.francebleu.fr/live/fb1071-midfi.mp3",
-      "France Bleu Paris",
-      "Talk Public-Radio"
-    ],
-    [
-      "http://str0.creacast.com/magnum",
-      "Magnum la Radio",
-      "Variety"
-    ],
-    [
-      "http://icecast.radiofrance.fr/fbbesancon-midfi.mp3",
-      "France Bleu Besançon",
-      "Talk Public-Radio"
-    ]
-  ],
-  "Guyane (FR)": [
-    [
-      "http://france1.coollabel-productions.com:8162/;",
-      "Radio Ouest FM",
-      "null"
-    ],
-    [
-      "http://radiopeyiguyane.ice.infomaniak.ch/radiopeyiguyane-64.mp3",
-      "Radio Peyi Guyane",
-      "null"
-    ],
-    [
-      "http://9843.go2stream.fr:8000/stream",
-      "Radio Puzzle Guyane",
-      "null"
-    ],
-    [
-      "http://str0.creacast.com/metisfm",
-      "Radio Métis FM",
-      "World Tropical Reggae"
-    ],
-    [
-      "http://nrjguyane.ice.infomaniak.ch/nrjguyane-64.mp3",
-      "NRJ Guyane",
-      "Hits"
-    ],
-    [
-      "http://listen.radioking.com/radio/289372/stream/335533",
-      "Radio Joie de Vivre",
-      "null"
-    ],
-    [
-      "http://srv6.streaming-ingenierie.fr:8136/;",
-      "RTL 2 Guyane",
-      "Rock Pop"
-    ],
-    [
-      "http://radio-shoutcast2.cyber-streaming.com:8162/;",
-      "Ouest FM",
-      "Pop"
-    ],
-    [
-      "http://guyane.ice.infomaniak.ch/guyane-128.mp3",
-      "Radio Guyane ère FM",
-      "Variety"
-    ],
-    [
-      "http://mayouri.jrp.ma:8000/mayouricampus",
-      "Radio Mayouri Campus FM",
-      "College"
-    ]
-  ],
-
-  "Polynesie (FR)": [
-    [
-      "http://polynesie.ice.infomaniak.ch/polynesie-128.mp3",
-      "Polynésie ère",
-      "Public-Radio"
-    ],
-    [
-      "http://live.radio1.pf:8001/radio1",
-      "Radio 1",
-      "Variety"
-    ],
-    [
-      "http://stream.radiojar.com/u0yz7p0mb",
-      "Radio Hiti FM",
-      "Pop"
-    ],
-    [
-      "http://listen.radioking.com/radio/397660/stream/449635",
-      "NRJ Polynésie",
-      "null"
-    ],
-    [
-      "http://s10.myradiostream.com:36098/stream",
-      "Tahiti Web Radio",
-      "null"
     ]
   ]
 }
